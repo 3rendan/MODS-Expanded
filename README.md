@@ -1,5 +1,5 @@
 
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href="http://digital.provath.org"><img src="https://github.com/3rendan/MODS-Expanded/blob/master/images/logo.png&s=200" title="Providence Athenæum" alt="Providence Athenæum"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
