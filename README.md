@@ -1,7 +1,7 @@
 
-<a href="http://digital.provath.org"><img src="https://github.com/3rendan/MODS-Expanded/blob/master/images/logo.png&s=200" title="Providence Athenæum" alt="Providence Athenæum"></a>
+<a href="http://digital.provath.org"><img src="https://digital.provath.org/uploads/screenshotMODS1.png" title="Providence Athenæum" alt="Providence Athenæum"></a>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 # MODS-Expanded
