@@ -1,5 +1,5 @@
 
-<a href="http://digital.provath.org"><img src="https://digital.provath.org/uploads/screenshotMODS1.png" title="Providence Athenæum" alt="Providence Athenæum" width="500" margin="auto"></a>
+<a href="http://digital.provath.org"><img src="https://digital.provath.org/uploads/screenshotMODS1.png" title="Providence Athenæum" alt="Providence Athenæum" width="750" style="margin=auto"></a>
 
 
 
