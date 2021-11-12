@@ -56,7 +56,7 @@ It extends the plugin made by <a href="http://www.columbia.edu/cu/libraries/insi
 
 Reach out to me at one of the following places!
 - Email at <a href="mailto:brendan.ryan@pm.me">Brendan Ryan</a>
-- Website at <a href="http://brendanryan.space" target="_blank">brendanryan.space</a>
+- Website at <a href="http://brendanryan.xyz" target="_blank">brendanryan.space</a>
 - LinkedIn at <a href="www.linkedin.com/in/brendan-r-ryan" target="_blank">Brendan Ryan</a>.
 
 ---
